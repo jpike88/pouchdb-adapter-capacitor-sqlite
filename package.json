@@ -1,6 +1,6 @@
 {
-  "name": "pouchdb-adapter-capacitor-sqlite",
-  "version": "3.0.0",
+  "name": "capacitor-adapter-sqlite-pouchdb",
+  "version": "1.0.0",
   "description": "PouchDB adapter using Capacitor SQLite Plugin as its data store.",
   "main": "./lib/index.js",
   "keywords": [],
